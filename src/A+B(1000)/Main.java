@@ -1,3 +1,4 @@
+/*
 import java.util.*;
 
 public class Main {
@@ -6,3 +7,4 @@ public class Main {
         System.out.println(sc.nextInt()+sc.nextInt());
     }
 }
+*/
